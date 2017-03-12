@@ -1,5 +1,5 @@
 function hello(){
-  console.log("hello test");
+  console.log("codeship-hello1 test");
 }
 
 hello();
